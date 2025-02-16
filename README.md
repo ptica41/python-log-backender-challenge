@@ -40,3 +40,8 @@ make install
 ## Linter
 
 `make lint`
+
+
+# Solving test task
+
+### [click me](docs/solving_task.md)
